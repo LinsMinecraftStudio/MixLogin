@@ -1,0 +1,4 @@
+name: mixlogin
+version: '${project.version}'
+main: org.lins.mmmjjkx.mixlogin.Mixlogin
+api-version: 1.18
