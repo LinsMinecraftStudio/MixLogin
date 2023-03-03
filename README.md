@@ -1,2 +1,2 @@
-git# MixLogin
-A authentication plugin.
+# MixLogin
+An authentication plugin.
